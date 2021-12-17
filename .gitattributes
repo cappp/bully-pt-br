@@ -1,0 +1,4 @@
+*.wmv filter=lfs diff=lfs merge=lfs -text
+*.wmv !text !filter !merge !diff
+tradução/Movies/AttractMode.wmv filter=lfs diff=lfs merge=lfs -text
+tradução/Movies/RockStar.wmv filter=lfs diff=lfs merge=lfs -text
