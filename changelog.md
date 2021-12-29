@@ -41,7 +41,7 @@
 - De `"Eu creio que você se daria bem na classe de luta, se esforçando pelo seu amor à violência.  Mas não"` para `"Eu creio que você se daria bem na aula de luta, se esforçando pelo seu amor à violência. Mas não"`
 - De `"O que foi, Jimmy? Está com medo? A luta é algo SÉRIO, então pare de atormentar a classe"` para `"O que foi, Jimmy? Está com medo? A luta é algo SÉRIO, então pare de atormentar a aula"`
 
-### Aula no Ginásio
+### Aula no ginásio
 
 - De `"Sera melhor que ."` para `"Gostam disso?"`
 
@@ -50,7 +50,7 @@
 - De `"Use LB e RB para selecionar e desselecionar o Skateboard"` para `"Use LB e RB para selecionar e desselecionar o Skate"`
 - De `"B Ollie"` para `"B Pular"`
 
-### Aula de Biologia
+### Aula de biologia
 
 - Todas as frases que usavam `"fórceps"` agora é `"pinça"`
 - De `"Utilizar pinça"` para `"Use a pinça"`
