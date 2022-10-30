@@ -7,11 +7,11 @@ O intuito deste projeto é reunir as traduções já feitas pela [GameVicio](htt
 
 ![ganhou-corrida-original.jpg](screenshots/ganhou-corrida-original.jpg)
 
-> A corrida acabou de iniciar e aparece "Ganhou a corrida!"
+> A corrida acabou de iniciar e aparece "Ganhou a corrida!".
 
 ![ganhou-a-corrida-fixed.png](screenshots/ganhou-a-corrida-fixed.png)
 
-> Resolvido ✨️🌟️💫️
+> Resolvido. ✨️🌟️💫️
 
 ## Instalação
 
