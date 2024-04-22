@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./bully-se.png" width="600px">
+  <img src="./bully-se.png" width="600px" alt="Bully Tradução PT-BR">
   <h1>Tradução PT-BR</h1>
 </div>
 
