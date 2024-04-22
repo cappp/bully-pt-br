@@ -22,4 +22,4 @@ O intuito deste projeto é reunir as traduções já feitas pela [GameVicio](htt
 **OBS:** A tradução foi testada na versão de PC do Bully na Steam e ainda não está totalmente completa! Veja as mudanças já feitas abaixo.
 
 ## Mudanças
-Visite a [mudanças.md](mudanças.md) para ver todas as mudanças da tradução.
+Visite [mudanças.md](mudanças.md) para ver todas as mudanças da tradução.
