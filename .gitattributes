@@ -1,3 +1,1 @@
 tradução/Movies/*.wmv filter=lfs diff=lfs merge=lfs -text
-./tradução/Movies/*.wmv filter=lfs diff=lfs merge=lfs -text
-./tradução/Movies/*.wmv !text !filter !merge !diff
