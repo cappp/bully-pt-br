@@ -19,4 +19,4 @@ O intuito deste projeto é reunir as traduções já feitas pela [GameVicio](htt
 2. Extraia o arquivo ZIP e mova ou copie as pastas `Config` e `Movies` (que ficam dentro da pasta `tradução`) para a pasta raiz do Bully, substitua os arquivos quando pedir.
 3. Agora é só jogar e se divertir. 😀️
 
-**OBS:** A tradução foi testada na versão de PC do Bully na Steam e ainda não está totalmente completa!
+**OBS:** A tradução foi testada na versão de PC do Bully na Steam e ainda não está totalmente completa! Existem diversos problemas, mas nada que atrapalhe sua jogatina.
