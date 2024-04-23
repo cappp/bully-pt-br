@@ -1,1 +1,1 @@
-Extraia o arquivo ZIP e mova as pastas Config e Movies (que ficam dentro da pasta tradução) para a pasta raiz do Bully, substitua os arquivos quando pedir.
+Mova ou copie as pastas Config e Movies (que ficam dentro da pasta tradução) para a pasta raiz do Bully, substitua os arquivos quando pedir.
