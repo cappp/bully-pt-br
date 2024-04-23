@@ -15,8 +15,8 @@ O intuito deste projeto é reunir as traduções já feitas pela [GameVicio](htt
 
 ## Instalação
 
-1. Você pode baixar a tradução [aqui](https://github.com/cappp/bully-pt-br/archive/refs/heads/main.zip).
-2. Extraia os arquivos da pasta `tradução` (dentro do arquivo compactado baixado) para a pasta do jogo, e substitua todos quando pedir.
+1. Você pode baixar o ZIP da tradução [aqui](https://github.com/cappp/bully-pt-br/releases/latest).
+2. Extraia o arquivo ZIP e mova as pastas `Config` e `Movies` (que ficam dentro da pasta `tradução`) para a pasta raiz do Bully, substitua os arquivos quando pedir.
 3. Agora é só jogar e se divertir. 😀️
 
-**OBS:** A tradução foi testada na versão de PC do Bully na Steam e ainda não está totalmente completa! Veja as mudanças já feitas abaixo.
+**OBS:** A tradução foi testada na versão de PC do Bully na Steam e ainda não está totalmente completa!
