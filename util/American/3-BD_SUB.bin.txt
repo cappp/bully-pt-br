@@ -1,0 +1,11 @@
+0358776679=Eu te disse! Eu sou o papai. Entendeu? Eu tô no comando, você faz o que eu digo!
+0358776680=Tudo bem... desisto... você pode ficar com ela.
+0358776681=Quem? Do que você está falando, Johnny?
+0358776682=Lola. Você venceu. Ela é sua.
+0358776683=Isso não tem nada a ver com ela, cara. Eu não ligo. 
+0358776684=Você pode ficar com aquela piranha para você.
+0358776685=O que? Você não quer ela? Então por que você fez isso?
+0358776686=Por que você brigou... só para provar que é mais durão que eu?
+0358776687=Exato, e que nem você nem seus garotos se esqueçam disso.
+0358776809=Sou mais durão que você, então talvez agora você pare de provocar todo mundo.
+0358776810=Você trabalha para mim agora.

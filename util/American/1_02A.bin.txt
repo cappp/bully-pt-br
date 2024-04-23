@@ -1,0 +1,9 @@
+0169285916=Vá para o seu quarto.
+0169285917=Ponha o uniforme.
+0297721929=Você provavelmente deveria mudar o seu uniforme se não quiser ter problemas. 
+0322101604=Pegue uma bebida da máquina de refrigerante.
+0441121043=Vá para seu quarto e mude seu uniforme.
+0910194617=Vá para o seu quarto.
+0950264956=Nós não temos um bar, só uma máquina de refri.
+1163712790=Você bateu em Gary.
+1271145091=Gary foi nocauteado.

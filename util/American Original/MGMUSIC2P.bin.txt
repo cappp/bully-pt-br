@@ -1,0 +1,10 @@
+0393412812=Get Ready
+0448783869=Jimmy Wins
+0459049250=Perfect
+0993804068=Good
+0998281921=Play along with the song and stay on time to win. When the scrolling icons enter the box, perform the corresponding action. Hit 10 PERFECT notes in a row to get 2x points for each note, don't mess up or you'll lose your bonus!~n~~n~~MANUAL_LOCK~ ~FIRE_WEAPON~ - Match prompts~n~~SHOW_OPTIONS~ - Pause~n~~CLASS_INFO~ - Information  
+1068303510=When the scrolling icons enter the box, perfrom the corresponding action.
+1435786468=Gary Wins
+1579461890=~CLASS_SELECT~ Continue
+1991680606=Begin
+2014283220=2X

@@ -1,0 +1,2 @@
+0048193690=Swing the mallet as hard as you can.~n~ ~n~~CONFIRM~ Start~n~~CANCEL~ Exit
+0179606884=~ACTION~

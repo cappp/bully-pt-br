@@ -1,0 +1,10 @@
+0393412812=Prepare-se
+0448783869=Jimmy ganhou
+0459049250=Perfeito
+0993804068=Bom
+0998281921=Toque com a canção,mantenha o ritmo para ganhar.Quando os ícones entrarem no quadrado, realize a ação correspondente. Faça 10 notas perfeitas para obter um ponto extra 2x em cada nota, não falhe ou perderá o seu bônus!~n~~n~~MANUAL_LOCK~ ~FIRE_WEAPON~ - Realizar a ação~n~~SHOW_OPTIONS~ - Pausar~n~~CLASS_INFO~ - Informação  
+1068303510=Quando os ícones entrarem no quadrado, realize a ação correspondente.
+1435786468=Gary ganhou
+1579461890=~CLASS_SELECT~ Continuar
+1991680606=Começar
+2014283220=2X

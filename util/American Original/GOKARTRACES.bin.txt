@@ -1,0 +1,14 @@
+0209999164=Your Time was: ~a~
+0557220383=7 Laps
+0870693437=Time Trial 
+1128606818=~ACCELERATE~ Accelerate~n~~BRAKE~ Reverse~n~~HAND_BRAKE~ Hand Brake
+1385249813=Up for some Go Kart Racing? 
+1385249814=What do you want to do? 
+1385249815=Have Fun
+1385249816=Good Luck
+1385249817=How many laps do you want to try? 
+1385249818=See you later, kid
+1526704347=3 Laps
+1641070435=Your Previous Best Time was: ~a~
+1791502461=New Best Time
+2115704189=5 Laps 

@@ -1,0 +1,15 @@
+0971138236=Já teve o bastante? Quer mais? Venha, grandão!
+0971138237=Você ainda acha que se meter comigo é uma boa idéia?
+0971138238=Não. Não, não.
+0971138239=Bom, foi o que pensei.
+0971138240=Agora... em primeiro lugar, o que te fez achar que era uma boa idéia?
+0971138241=Ahhh cara, eu odeio aquela escola.
+0971138242=Meus pais não tinham condições de me mandar para lá 
+0971138243=e agora estou preso nessa porcaria de cidade.
+0971138244=Gary disse que faríamos todos eles pagarem.
+0971138366=Espera um segundo... Gary? Aquele anti-social traiçoeiro de duas-caras te colocou nisso?
+0971138367=Aposto que ele disse que vocês dois deveriam dominar a escola ou alguma porcaria dessas...
+0971138368=Ei, como você sabia?
+0971138369=Porque ele me disse o mesmo lixo.
+0971138370=Também não me fez bem nenhum.
+0971138371=Vamos. Você vai me ajudar a fazer ele pagar pelas mentiras dele.

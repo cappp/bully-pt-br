@@ -1,0 +1,16 @@
+0420877902=Failed
+0662374108=Job Complete.
+0662374111=Damage another and you fail.
+0662374112=Only mow the lawn.
+0662374113=Job Complete.  Cut 100% of the grass for an additional reward.
+0662374115=Get back on the mower: ~i~
+0662374239=Last warning. Don't destroy property.
+0662374240=Vandalism.
+0662374241=You abandoned your task.
+0662374242=You attacked the prefect.
+0662374243=You were busted.
+0662374244=You ran out of time.
+0662374245=You attacked your employer.
+0662378301=Punishment cleared.
+0872196651=Cut ~i~% of the grass before the timer runs out.
+1257747736=You've earned the Prison Outfit.

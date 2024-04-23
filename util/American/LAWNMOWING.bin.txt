@@ -1,0 +1,16 @@
+0420877902=Falha
+0662374108=Serviço Completo.
+0662374111=Danifique outro e você falhará.
+0662374112=Corte apenas a grama.
+0662374113=Serviço Completo.  Corte 100% da grama para uma recompensa adicional.
+0662374115=Volte para o cortador de grama: ~i~
+0662374239=Último aviso. Não destrua bens.
+0662374240=Vandalismo.
+0662374241=Você abandonou sua tarefa.
+0662374242=Você atacou o monitor.
+0662374243=Você foi pego.
+0662374244=Seu tempo esgotou.
+0662374245=Você atacou seu patrão.
+0662378301=Castigo cumprido.
+0872196651=Corte ~i~% da grama antes que o tempo acabe.
+1257747736=Você ganhou o uniforme de presidiário.

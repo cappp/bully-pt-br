@@ -1,0 +1,15 @@
+0015270217=Games
+0272054047=Dart~n~~i~ / ~i~
+0921380577=-~i~
+1306322977=~CONFIRM~ Start
+1306322978=Move dart to aim~n~~CONFIRM~ to throw
+1306322979=Substract your points to the total until you reach a perfect zero
+1306322980=~CONFIRM~ to keep playing~n~~CANCEL~ to leave the game
+1306322981=Sorry, better luck next time
+1306322982=Score: ~i~~n~Darts: ~i~
+1306322983=Points: ~i~
+1306322984=Darts: ~i~
+1306322985=Excellent Job. Now try with ~i~ darts.
+1306323107=Excellent Job
+1306323108=Time Out
+1406317814=Score

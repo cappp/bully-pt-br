@@ -1,0 +1,2 @@
+0048193690=Golpeie com o martelo o mais forte que puder.~n~ ~n~~CONFIRM~ Começar~n~~CANCEL~ Sair
+0179606884=~ACTION~

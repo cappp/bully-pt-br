@@ -1,0 +1,13 @@
+0209999164=Seu tempo foi de: ~a~
+0557220383=7 Voltas
+0870693437=Tempo
+1385249813=Vai uma corrida de kart?
+1385249814=O que você quer fazer?
+1385249815=Divirta-se
+1385249816=Boa Sorte
+1385249817=Quantas voltas você quer dar?
+1385249818=Até mais, rapaz
+1526704347=3 voltas
+1641070435=O seu melhor tempo anterior foi: ~a~
+1791502461=Novo melhor tempo
+2115704189=5 voltas

@@ -1,0 +1,17 @@
+0471704721=Fazer uma aposta:~n~~$~
+0769948661=+~i~
+1375856063=Bolas: ~i~
+1462575861=Aperte ~CLASS_INFO~ para instruções, ~CONFIRM~ para continuar
+1462575862=Vamos ver suas habilidade de futebol.
+1462575863=Carregue seu chute, aponte e acerte forte.
+1462575864=Acerte todos os 6 quadrados vermelhos antes de acabarem as bolas para passar para o nível seguinte.
+1462578743=Você perdeu.
+1462580970=Você avançou para o próximo nível.
+1462580971=Você venceu.
+1625946104=Constantinos
+1664033937=~INCREASE_BET~ Aumentar aposta~n~~DECREASE_BET~ Baixar aposta~n~~CONFIRM~ Começar~n~~CANCEL~Sair
+1670845282=~CANCEL~ Sair
+1679667346=Tente acertar o garoto até que ele seja nocauteado.
+1684075618=Segure e solte ~ACTION~ para chutar.
+1704309741=Tempo:  ~i~:~z~
+2087368552=Pontuação total: ~i~

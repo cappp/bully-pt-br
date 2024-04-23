@@ -1,0 +1,12 @@
+1317837480=I did it!
+1317837481=That's great. Listen, we've got a problem.
+1317837482=I'm the king, Petey. The king!
+1317837483=Whatever. You're a king with a load of problems.
+1317837484=I've only been gone a couple hours. What could have happened?
+1317837485=All kinds of things. Remember that promise you made
+1317837486=about restoring law and order and improving the school?
+1317837487=Let's just say it ain't exactly coming true.
+1317837488=Well if anyone wants a fight, I'm right here.
+1317837610=I think Gary must be behind it, but trust me, everyone wants a fight.
+1317837611=Listen, I've got to go. I'll talk to you later.
+1317837612=Aw, man.

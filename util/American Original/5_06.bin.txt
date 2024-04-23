@@ -1,0 +1,12 @@
+0005521970=Hey Russell, I need your help to bust into the dropouts' hideout.
+0016642690=Damn... they're locked.
+0018992961=Only if Russell gets to destroy.
+0284805780=Travel to Russell's house in Old Bullworth Vale.
+0284805781=Hey Russell, I need your help to bust into the townie's hideout.
+0284805782=Alright, this is a good time to show you my new toy.
+0284805783=Get on the scooter.
+0284805784=Follow Russell.
+0284805785=Now what?
+0284805786=I Smash!
+0284805787=You are falling behind.
+0284805788=Russell got too far away.

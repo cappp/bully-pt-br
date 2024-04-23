@@ -1,0 +1,11 @@
+0398842594=You knocked out a customer!
+0398842595=You attacked a customer!
+0951856447=Drop off ~i~ packages.
+1027837606=~ACTION~ Deliver Package
+1118018205= 
+1321182894=Deliver the packages for Mr. Watts.
+1321182895=Deliver ~i~ more Packages for Mr. Watts.
+1321182896=Return to Mr. Watts.
+1420748674=Get the formula from Mr. Watts' assistant.
+1432986964=I need you to Deliver these packages.
+1432986965=Thanks Jimmy, You've made bald men very happy.

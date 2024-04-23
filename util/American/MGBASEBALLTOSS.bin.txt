@@ -1,0 +1,4 @@
+0307578153=Acerte 3 ~special1~ para ganhar.~n~ ~n~ ~n~~CONFIRM~ Começar~n~~CANCEL~ Sair
+0760037392=~i~
+0760037393=Bilhete extra
+1101430725=~B~~lstick~ ou ~rstick~ - Mirar       ~MG_THROW_BALL~ - Jogar a bola

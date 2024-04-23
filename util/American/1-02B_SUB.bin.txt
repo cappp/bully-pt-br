@@ -1,0 +1,17 @@
+0018626863=Ei, você é o novato!
+0018626864=É, e o que você tem a ver com isso?
+0018626865=Simpático, não é?
+0018626866=Me dá um tempo, perdedor.
+0018626867=Ei, relaxa amigo, você está muito irritado.
+0018626868=Vai com calma, ou eles vão te encher de remédio.
+0018626869=Eles fizeram isso comigo. Cara, eu quase fiquei louco.
+0018626870=Isso é fascinante... agora se você me der licença.
+0018626871=Eu disse relaxa, amigo.
+0018626993=Cai fora, cara.
+0018626994=Ei, me escuta durão,
+0018626995=você acabou de chegar à escola mais durona do país,
+0018626996=e eu estou oferecendo minha amizade.
+0018626997=Confie em mim, em um lugar como este, você vai precisar de amigos.
+0018626998=Agora tá com você. Vai aceitar, ou o quê?
+0018626999=Sim, claro.
+0018627000=Bom. Então, que tal eu lhe mostrar o lugar?

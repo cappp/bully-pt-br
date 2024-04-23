@@ -1,0 +1,17 @@
+0523684961=Amigo, preciso da sua ajuda.
+0523684962=Amigo?
+0523684963=Johnny e seus companheiros estavam me interrogando sobre Algie.
+0523684964=Esse cara está ficando cada vez mais louco.
+0523684965=Ele acha que Algie está dando em cima da garota dele.
+0523684966=Algie? E Lola?
+0523684967=Eu sei, é loucura, todos sabem que Algie gosta de loiras.
+0523684968=Escuta, encontre Algie, e traga-o de volta aqui
+0523684969=até que Johnny recupere seu bom senso.
+0523685091=Aonde ele está?
+0523685092=Não sei.
+0523685093=Sei que ele estava trabalhando com Cornelius em um projeto de matemática para o Hattrick
+0523685094=... talvez ele saiba aonde Algie está.
+0523685095=Quem?
+0523685096=Cornelius. Sabe... o esquelético do clube de teatro?
+0523685097=Ele interpretou muito bem a Julieta na peça da escola.
+0523685098=Acho que ele tem uma média geral de 4.0.

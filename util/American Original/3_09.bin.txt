@@ -1,0 +1,9 @@
+0742851269=Drop off ~i~ packages.
+0936451700=You Killed a Bald guy.
+0992819466=I need you to Deliver these packages.
+0992819467=Thanks Jimmy, You've made bald men very happy.
+1001671711= 
+1565446712=~ACTION~ Deliver Package
+1858792000=Deliver 5 Packages for Mr. Watts.
+1858792001=Deliver ~i~ more Packages for Mr. Watts.
+1858792002=Return Back to Mr. Watts.

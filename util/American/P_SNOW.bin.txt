@@ -1,0 +1,12 @@
+0174367320=Você quebrou o carro.
+0181110407=Fracasso
+0203592634=Castigo cumprido.
+1390159507=Se danificar outro carro, perderá. 
+1390162384=Vandalismo
+1390162385=Você abandonou sua tarefa.
+1390162386=Você atacou um monitor.
+1390162387=Te pegaram.
+1390162388=Fim do tempo.
+1390163694=Você cumpriu a detenção.
+1398806626=~i~
+1437717409=Limpe todos os montes de neve antes que o tempo acabe.

@@ -1,0 +1,15 @@
+0015270217=Partidas
+0272054047=Dardos~n~~i~ / ~i~
+0921380577=-~i~
+1306322977=~CONFIRM~ Começar
+1306322978=Mova o dardo para apontar~n~~CONFIRM~ para lançar
+1306322979=Subtraia seus pontos ao total até chegar a zero
+1306322980=~CONFIRM~ para continuar jogando~n~~CANCEL~ para abandonar o jogo
+1306322981=Sinto muito, melhor sorte na próxima vez
+1306322982=Pontuação: ~i~~n~Dardos: ~i~
+1306322983=Pontos: ~i~
+1306322984=Dardos: ~i~
+1306322985=Bom trabalho. Agora tente com ~i~ dardos.
+1306323107=Bom trabalho
+1306323108=Tempo esgotado
+1406317814=Pontuação

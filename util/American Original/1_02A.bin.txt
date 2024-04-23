@@ -1,0 +1,9 @@
+0169285916=Go to your bedroom.
+0169285917=Change into your uniform.
+0297721929=You should probably change into your uniform if you don't want to get in trouble. 
+0322101604=Get a drink from the soda machine.
+0441121043=Go to your room and change into your uniform.
+0910194617=Go to your dorm room.
+0950264956=We don't have a bar in the dorm, just a soda machine.
+1163712790=You harassed Gary.
+1271145091=Gary was knocked out.

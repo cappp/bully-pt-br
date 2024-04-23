@@ -1,0 +1,16 @@
+0312045923=Hey Santa, what's up?
+0312045924=Well, if it isn't my favorite little helper!
+0312045925=You wanna smoke?
+0312045926=Oh no, I forgot...
+0312045927=little goody-two-shoes doesn't smoke.
+0312045928=So what are you up to?
+0312045929=This doesn't look like much of a work-shop.
+0312045930=I know, we gotta fix this dump up.
+0312045931=Look through some trash cans for ornaments
+0312046053=or any junk that sparkles.
+0312046054=This is a classy operation,
+0312046055=we gotta look the part.
+0312046056=Oh c'mon man, with your whiskey breath and your weird manner,
+0312046057=you just scream Christmas spirit to me.
+0312046058=Of course I do... but this dump needs to look nice.
+0312046059=You leave it to me Mr. Claus.

@@ -1,0 +1,12 @@
+0005521970=Ei Russell, eu preciso da sua ajuda para entrar no esconderijo dos baderneiros.
+0016642690=Droga... Estão trancados.
+0018992961=Somente se Russel destruir.
+0284805780=Vá até a casa de Russell em Old Bullworth Vale.
+0284805781=Ei Russell, eu preciso da sua ajuda para entrar no esconderijo dos vagabundos.
+0284805782=Tudo bem, este é um bom momento para mostrar-lhe o meu novo brinquedo.
+0284805783=Suba na lambreta.
+0284805784=Siga Russell.
+0284805785=O que agora?
+0284805786=Eu arrebento!
+0284805787=Você está ficando para trás.
+0284805788=Russell está muito longe.

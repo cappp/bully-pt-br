@@ -1,0 +1,15 @@
+0044209566=Destrua o castelo.
+0102636145=Roupa de Elfo desbloqueada!
+0109776058=Destrua a caixa de som.
+0118168252=Volte a praça da cidade!
+0194341252=Você deixou a praça da cidade!
+0236901584=A oficina do Papai Noel está fechada!
+0561189897=Dano
+0608465689=Destrua o boneco de neve.
+1186186880=Você deixou Rudy cair!
+1339747822=Cuidado com os ajudantes do Papai Noel!
+1409439355=Volte a praça da cidade.
+1561713191=Destrua os bastões de caramelo.
+1630488398=Destrua os presentes.
+2048589792=Destrua o trenó do Papai Noel.
+2135500520=Destrua as velas.

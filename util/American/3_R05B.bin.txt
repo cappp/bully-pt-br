@@ -1,0 +1,11 @@
+0398842594=Você nocauteou um cliente!
+0398842595=Você atacou um cliente!
+0951856447=Entregue ~i~ pacotes.
+1027837606=~ACTION~ Entregar pacote
+1118018205= 
+1321182894=Entregue os pacotes para o Sr. Watts.
+1321182895=Entregue mais ~i~ pacotes para o Sr. Watts.
+1321182896=Volte ao Sr. Watts.
+1420748674=Pegue a fórmula do assistente do Sr. Watts.
+1432986964=Preciso que você entregue esses pacotes.
+1432986965=Obrigado, Jimmy, você fez os carecas muito felizes.

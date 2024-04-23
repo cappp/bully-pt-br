@@ -1,0 +1,14 @@
+0000974700=Você acha isso ENGRAÇADO?
+0297738955="Quer saber, você é de boa, garoto."
+0357642915=Destrua ~i~ caixas de correio.
+0386925016=Destrua as caixas de correio dessas crianças ricas.
+0386925017=Nada mau, novato. Vou estar de olho em você.
+0788621530=Vá para a área dos ricos antes que o tempo se esgote.
+0788621531=Destrua as caixas de correio antes que o tempo se esgote.
+0788621532=Destrua mais caixas de correio.
+0788621533=Retorne a Edgar.
+0943538766=Fico feliz que você pense isso.
+1064303209=
+1828466558=~ACTION~ Caixas de correio destruídas.
+1860615977=Ei... esta é a minha caixa de correio.
+2013764878=Você falhou no Armageddon de Caixas de Correio.

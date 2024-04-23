@@ -1,0 +1,17 @@
+0165153483=+~i~
+0209126107=Atire nos inimigos para obter pontos. Acertar inocentes resultará em penalidade.~n~ ~n~~ATTACK_R~ - Mirar com o retículo~n~~CLASS_DELETE~ - Disparar~n~Agitar Nunchuk - Recarregar~WII_RPAD~ - Insulto~n~~CLASS_EXIT~ - Pausa~n~~CLASS_INFO~ - Informação
+0209127815=~B~~lstick~ o ~rstick~ - Apontar       ~n~~FIRE_WEAPON~ - Disparar
+0743449675=Disparar:~n~ ~n~~special3~   ~special1~~n~ ~n~ ~n~Evitar:~n~ ~n~~special2~~n~ ~n~ ~n~~CONFIRM~ Começar~n~~CANCEL~ Sair
+0908422124=~CLASS_SELECT~ Continuar
+1442343306=Sua pontuação final é:
+1442343309=Acha que tenho cara de banco? Sem dinheiro, nada feito!
+1442343310=Agora saia da minha frente. Está espantando a clientela.
+1442343435=Puntuação: ~i~
+1442343436=Senhorita -10
+1442343437=~FIRE_WEAPON~ Disparar~n~ ~n~Acertar os alvos dará pontos.~n~ ~n~Acertar as senhoritas tirará pontos.
+1442343438=Sua pontuação foi ~i~
+1442343439=Feirante: Aqui está seu ticket.
+1442343440=Aqui estão ~i~ tickets.
+1442343443=Pontuação final: ~i~
+1638576503=-~i~
+2068888466=~i~

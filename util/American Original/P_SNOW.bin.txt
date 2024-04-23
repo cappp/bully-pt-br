@@ -1,0 +1,12 @@
+0174367320=You damaged the cars.
+0181110407=Failed
+0203592634=Punishment served.
+1390159507=Damage the cars again and you will fail.
+1390162384=Vandalism
+1390162385=You abandoned your task.
+1390162386=You attacked the prefect.
+1390162387=You were busted.
+1390162388=You ran out of time.
+1390163694=Your detention has been served.
+1398806626=~i~
+1437717409=Clear all piles of snow before the timer runs out.

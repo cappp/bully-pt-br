@@ -1,0 +1,15 @@
+0044209566=Destroy the castle.
+0102636145=Elf costume has been unlocked!
+0109776058=Destroy the stereo.
+0118168252=Get back to Town Square!
+0194341252=You left the Town Square!
+0236901584=Santa's workshop closed!
+0561189897=Damage
+0608465689=Destroy the snowman.
+1186186880=You let Rudy down!
+1339747822=Watch out for Santa's helpers!
+1409439355=Get to Town Square.
+1561713191=Destroy the candy canes.
+1630488398=Destroy the presents.
+2048589792=Destroy Santa's sleigh.
+2135500520=Destroy the candles.

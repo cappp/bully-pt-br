@@ -1,0 +1,2 @@
+0588868546=You were late for class.
+1693491508=Don't be late. Get to class before 9:30am.

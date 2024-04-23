@@ -1,0 +1,14 @@
+0000974700=You think that's FUNNY?
+0297738955="You know, you're alright kid."
+0357642915=Smash ~i~ mailboxes.
+0386925016=Go Smash those Rich kids mailboxes.
+0386925017=Not bad new kid. I'll be watching you.
+0788621530=Get to the Rich area before the time runs out.
+0788621531=Destroy the mailboxes before time runs out.
+0788621532=Destroy ~i~ more mailboxes.
+0788621533=Get back to Edgar.
+0943538766=Glad you think so.
+1064303209= 
+1828466558=~ACTION~ Mailboxes Destroyed
+1860615977=Hey... that's my mailbox.
+2013764878=You failed Mailbox Armageddon.

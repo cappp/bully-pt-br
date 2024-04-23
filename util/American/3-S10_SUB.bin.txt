@@ -1,0 +1,17 @@
+2053645431=Ei! 
+2053645432=Ah, é você. 
+2053645433=Isto é a forma de saudar o seu novo chefe, Harrington? Bem... é assim? 
+2053645434=Hummm, uh, não. 
+2053645435=Não, o quê? 
+2053645436=Não, senhor. 
+2053645437=Isso é melhor. À vontade, garotas. 
+2053645438=Ouça, chefe, aqueles macacos dos greasers estão dificultando a vida de Gord. 
+2053645439=Isso porque Gord estava pegando uma de suas namoradas um bom tempo. 
+2053645561=Que líder você se tornou. 
+2053645562=Papai diz que liderança consiste em cuidar de quem você guia.
+2053645563=Ele ensinou-me isso antes de despedir todo mundo.
+2053645564=O que você quer que eu faça? 
+2053645565=Envie-lhes uma mensagem, por toda sua favela imunda.
+2053645566=Por que eu deveria? 
+2053645567=Porque você é o chefe. 
+2053645568=Exatamente. Eu sou o chefe, e irei enviar a mensagem.

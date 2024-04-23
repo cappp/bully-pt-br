@@ -1,0 +1,17 @@
+0165153483=+~i~
+0209126107=Shoot the enemies for points.  Hitting innocents will result in a penalty.~n~ ~n~~ATTACK_R~ - Aim reticule~n~~CLASS_DELETE~ - Shoot~n~Shake Nunchuk - Reload~n~~WII_RPAD~ - Taunt~n~~CLASS_EXIT~ - Pause~n~~CLASS_INFO~ - Information
+0209127815=~B~~lstick~ or ~rstick~ - Aim       ~FIRE_WEAPON~ - Shoot
+0743449675=Shoot:~n~ ~n~~special3~   ~special1~~n~ ~n~ ~n~Avoid:~n~ ~n~~special2~~n~ ~n~ ~n~~CONFIRM~ Start~n~~CANCEL~ Exit
+0908422124=~CLASS_SELECT~ Continue
+1442343306=Your final score is:
+1442343309=Do you think I'm a charity case? No dough no throw!
+1442343310=Now get the 'ell outta my face. Let the paying customers come in.
+1442343435=Score: ~i~
+1442343436=Damsel -10
+1442343437=~FIRE_WEAPON~ shoot~n~ ~n~Shoot targets for points.~n~ ~n~Lose points for hitting damsels.
+1442343438=Your score was ~i~
+1442343439=Carnie: Here's your ticket.
+1442343440=Here are your ~i~ tickets.
+1442343443=Final Score: ~i~
+1638576503=-~i~
+2068888466=~i~

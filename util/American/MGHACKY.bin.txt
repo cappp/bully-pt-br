@@ -1,0 +1,7 @@
+1451335536=~CONFIRM~ Começar~n~~CANCEL~ Sair
+1451335537=Use o ~lstick~ ou mova o ~rstick~ na direção indicada para manter a bola no ar.
+1451335538=Quanto mais perto estiver, melhor será o seu desempenho.
+1451335544=Prepare-se
+1451335545=Começe
+1451335667=Apostar:~$~
+1451335668=~INCREASE_BET~ Subir aposta~n~~DECREASE_BET~ Baixa aposta~n~~CONFIRM~Começar~n~~CANCEL~Sair

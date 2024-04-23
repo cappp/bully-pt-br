@@ -1,0 +1,17 @@
+0439189200=Ei, você é o novato!
+0439189201=Eu acho que sim...
+0439189202=Muito simpático você em?
+0439189203=Me dê um tempo, imbecil.
+0439189204=Ei, relaxe amigo, você está muito irritado.
+0439189205=Vai com calma, ou vão te encher de remédios.
+0439189206=Eles fizeram isso comigo. Cara, eu quase fiquei louco.
+0439189207=Muito interessante... agora se você me der licença.
+0439189208=Eu disse para você relaxar, amigo.
+0439189330=Sai fora, cara.
+0439189331=Ei, me escuta durão,
+0439189332=você acabou de chegar à escola mais rígida do país,
+0439189333=e eu estou oferecendo minha amizade.
+0439189334=Confie em mim, em um lugar como este, você vai precisar de amigos.
+0439189335=Então o que você acha? Vai aceitar, ou o quê?
+0439189336=Sim, com certeza.
+0439189337=Bom. Então, que tal eu lhe mostrar o lugar?

@@ -1,0 +1,4 @@
+0307578153=Hit 3 ~special1~ to win.~n~ ~n~ ~n~~CONFIRM~ Start~n~~CANCEL~ Exit
+0760037392=~i~
+0760037393=Extra ticket
+1101430725=~B~~lstick~ or ~rstick~ - Aim       ~MG_THROW_BALL~ - Throw ball

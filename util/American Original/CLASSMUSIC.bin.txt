@@ -1,0 +1,10 @@
+0019325996=Perfect
+0330236848=~CLASS_SELECT~ Continue
+0441202072=Begin
+0463804686=2X
+0771725034=Get Ready
+0981968354=Good
+0986446207=Play along with the song, stay on time to pass your class.  When the scrolling icons enter the box, perform the corresponding action.~n~~n~~MANUAL_LOCK~ ~FIRE_WEAPON~ - Match prompts~n~~CLASS_EXIT~ - Exit~n~~CLASS_INFO~ - Information  
+1148375709=~i~%
+1192498752=~MANUAL_LOCK~ Continue
+1966562116=When the scrolling icons enter the box, perfrom the corresponding action.

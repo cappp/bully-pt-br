@@ -1,0 +1,9 @@
+0742851269=Entregue ~i~ pacotes.
+0936451700=Você matou um cara careca.
+0992819466=Eu preciso que você entregue esses pacotes.
+0992819467=Obrigado Jimmy, você fez um careca feliz.
+1001671711= 
+1565446712=~ACTION~ Entregar Pacote
+1858792000=Entregue os 5 pacotes para o Senhor Watts.
+1858792001=Entregue ~i~ mais pacotes para o Senhor Watts.
+1858792002=Volte até o Senhor Watts.

@@ -1,0 +1,6 @@
+0458483284=Nesta competição, seu objetivo é cortar o máximo de grama que puder antes do tempo acabar.
+1131045637=Pegar potenciadores.
+1131045638=Corte as ervas daninhas para obter mais pontos!
+1131045639=Cuidado com as flores!
+1131045640=Acerte seu oponente para desacelerá-lo!
+2065968649=Corte o máximo de grama antes que~n~o tempo se acabe.~n~Peque potenciadores e corte~n~as ervas daninhas para pontos~n~extras.  Cuidado~n~com as flores!~n~Acerte seu oponente~n~para desacelerá-lo~

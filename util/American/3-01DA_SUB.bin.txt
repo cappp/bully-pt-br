@@ -1,0 +1,16 @@
+0312045923=Ei, Noel, qual é?
+0312045924=Olha só, se não é o meu ajudantezinho preferido!
+0312045925=Quer um cigarro?
+0312045926=Oh não, me esqueci...
+0312045927=garotos bonzinhos não fumam.
+0312045928=O que você está fazendo?
+0312045929=Isso não parece um lugar de trabalho.
+0312045930=Eu sei, tenho que limpar essa bagunça.
+0312045931=Procure nas latas de lixo por decorações 
+0312046053=ou qualquer lixo que brilhe.
+0312046054=Esta é uma operação de classe,
+0312046055=temos que dar uma olhada.
+0312046056=Ora qualé cara, com seu hálito de uísque e suas maneiras estranhas,
+0312046057=você grita o espírito de Natal para mim.
+0312046058=Claro que sim... mas esse lixo tem que parecer legal.
+0312046059=Deixa comigo, senhor Noel.

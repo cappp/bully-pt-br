@@ -1,0 +1,11 @@
+0150805950=SABOTAGE
+0240827775=Gary Wins
+0419854495=When an action icon appears, perform the corresponding action.
+0419854496=When ~CLASS_SABOTAGE_ICON~ appears, you can attempt to sabotage your opponent's experiment.
+0419854497=But watch out for the teacher!
+0620130333=Get Ready
+0675501390=Jimmy Wins
+0931012875=~CLASS_SELECT~ Continue
+1554480066=Turn, thrust and shake the controllers to match the onscreen prompts and finish your experiment first. Sabotage your rival to gain valuable time but don't get caught by the teacher!~n~ ~n~~CLASS_SELECT~ - Sabotage~n~~ATTACK_L~ - Match prompts~n~~ATTACK_R~ - Match prompts~n~~CLASS_EXIT~ - Pause~n~~CLASS_INFO~ - Information  
+1590920114=~CLASS_SABOTAGE_ICON~ 
+1839193569=Begin

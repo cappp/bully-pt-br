@@ -1,0 +1,11 @@
+0150805950=SABOTAGEM
+0240827775=Gary Venceu
+0419854495=Quando aparecer um ícone, realize a ação correspondente.
+0419854496=Quando ~CLASS_SABOTAGE_ICON~ aparecer, poderá tentar sabotar o experimento do seu oponente.
+0419854497=Mas cuidado com o professor!
+0620130333=Preparar
+0675501390=Jimmy Venceu
+0931012875=~CLASS_SELECT~ Continuar
+1554480066=Gire, mova e agite o controle para seguir as ações da tela e finalizar seu primeiro experimento. Sabote seu rival e ganhe um tempo valioso mas seja pego pelo professor!~n~ ~n~~CLASS_SELECT~ - Sabotar~n~~ATTACK_L~ - Seguir a ação~n~~ATTACK_R~ - Seguir a ação~n~~CLASS_EXIT~ - Pausa~n~~CLASS_INFO~ - Informação  
+1590920114=~CLASS_SABOTAGE_ICON~ 
+1839193569=Começar

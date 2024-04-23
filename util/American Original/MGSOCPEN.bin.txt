@@ -1,0 +1,17 @@
+0471704721=Place your bet:~n~~$~
+0769948661=+~i~
+1375856063=Balls: ~i~
+1462575861=Press ~CLASS_INFO~ for instructions, ~CONFIRM~ to continue
+1462575862=Let's see your soccer skills.
+1462575863=Power up your kick, aim your shot and let 'er rip.
+1462575864=Hit all 6 red squares before you run out of balls to advance to the next stage.
+1462578743=You Lose
+1462580970=You've advanced to the next level.
+1462580971=You Win
+1625946104=Constantinos
+1664033937=~INCREASE_BET~ Increase Bet~n~~DECREASE_BET~ Decrease Bet~n~~CONFIRM~ Start~n~~CANCEL~ Exit
+1670845282=~CANCEL~ Exit
+1679667346=Try to hit the kid with the ball until he is knocked out.
+1684075618=Hold and release ~ACTION ~ to kick.
+1704309741=Time:  ~i~:~z~
+2087368552=Total Score: ~i~

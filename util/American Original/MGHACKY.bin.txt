@@ -1,0 +1,7 @@
+1451335536=~CONFIRM~ Start~n~~CANCEL~ Exit
+1451335537=Use the ~lstick~ or move the ~rstick~ in the direction of the arrow to keep the ball in the air.
+1451335538=The closer it is, the better your performance will be.
+1451335544=Get Ready
+1451335545=Begin
+1451335667=Bet:~$~
+1451335668=~INCREASE_BET~ Increase Bet~n~~DECREASE_BET~ Decrease Bet~n~~CONFIRM~Start~n~~CANCEL~Exit

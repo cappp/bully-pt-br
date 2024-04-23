@@ -1,0 +1,6 @@
+0458483284=In this no holds barred competition your goal is to cut the most grass before the time runs out.
+1131045637=Collect powerups.
+1131045638=Mow down weeds for extra points!
+1131045639=Watch out for flowers!
+1131045640=Smash your opponent to slow him down!
+2065968649=Cut the most grass before~n~the time runs out.~n~Collect powerups and mow~n~down weeds for extra~n~points.  Watch out~n~for flowers!~n~Smash your opponent~n~to slow him down~

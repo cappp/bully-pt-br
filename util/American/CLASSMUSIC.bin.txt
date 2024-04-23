@@ -1,0 +1,10 @@
+0019325996=Perfeito
+0330236848=~CLASS_SELECT~ Continuar
+0441202072=Começar
+0463804686=2X
+0771725034=Prepare-se
+0981968354=Bom
+0986446207=Toque com a música, fique no ritmo para passar na aula. Quando os ícones entrarem no quadro, realize a ação correspondente.~n~~n~~MANUAL_LOCK~ ~FIRE_WEAPON~ - Realizar ação indicada~n~~CLASS_EXIT~ - Sair~n~~CLASS_INFO~ - Informação  
+1148375709=~i~%
+1192498752=~MANUAL_LOCK~ Continuar
+1966562116=Quando os ícones entrarem no quadro, realize a ação correspondente.

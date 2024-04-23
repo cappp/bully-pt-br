@@ -1,0 +1,15 @@
+0003274530=Jimmy!  There you are!  I don't know what to do and I smell like meat.
+0005521707=Come on... we gotta get to the school.  All hell's breaking loose.
+0021241968=Your attention please: Jimmy is complete human trash.
+0147216024=Press ~ACTION~ to talk to Russell.
+0295456544=Just waiting for the word.
+0315621238=This is going to be fun boys.
+0315638137=There's just a single suspect.
+0670626422=Gain access into the Wonder Meats factory.
+0670626423=Rescue Russell from Wonder Meats.
+0670626424=Escape out of Wonder Meats with Russell.
+0670626425=Lose the cops and hide in the tunnel.
+0869902482=Russell
+0934476966=Rubberduck in position.
+0945683759=Thanks Jimmy.
+1350867671=Russell was knocked out.
